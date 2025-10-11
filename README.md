@@ -18,3 +18,18 @@ It allows users to **search recipes** from a MySQL database and view details suc
 - **IntelliJ IDEA / VS Code**
 
 
+## Project Structure:
+```
+check project/
+├── src/
+│   ├── Main.java
+│   └── RecipeBookApp.java
+├── check project.xml
+├── .gitignore
+└── README.md
+```
+
+
+
+
+
