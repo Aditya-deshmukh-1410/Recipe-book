@@ -29,7 +29,10 @@ check project/
 └── README.md
 ```
 
-
+## 👨‍💻 Author
+Aditya Deshmukh
+📍 GitHub
+⚠️ Note: This project was created for practice and learning purposes only.
 
 
 
