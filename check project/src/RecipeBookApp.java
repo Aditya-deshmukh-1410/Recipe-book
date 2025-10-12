@@ -19,7 +19,7 @@ public class RecipeBookApp {
         jFrame.setLocationRelativeTo(null);
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        ImageIcon icon = new ImageIcon("C:/Users/sahil/Downloads/book1.png");
+        ImageIcon icon = new ImageIcon("C:/Users/a2az/Downloads/book1.png");
         jFrame.setIconImage(icon.getImage());
 
         JLabel jLabel = new JLabel("Search for Recipe");
